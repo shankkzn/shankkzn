@@ -13,6 +13,7 @@
 ### 👨‍💻 About Me
 
 - 💻 Focused on building applications using **C# / .NET** on **Visual Studio 2022**
+- 🗃 I create applications with databases (SQL Server, SQLite)
 - 🧠 Continuously improving my skills and learning new technologies
 - 🌍 Actively looking for a junior developer position in **Israel**
 
@@ -43,6 +44,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
+
+### ⚙️ Технологии и инструменты
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ### 📁 What You'll Find Here
 
