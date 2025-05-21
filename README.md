@@ -71,4 +71,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shankkzn&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shankkzn&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankkzn&layout=compact&theme=default" alt="Top Langs" />
+</div>
+
+
 Thank you for visiting my profile! I will be glad to cooperate and receive suggestions. 🚀
