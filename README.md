@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpg" alt="Banner 1" width="70%" />
+  <img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpg" alt="Banner 1" width="50%" />
 </div>
 
 <!-- содержание профиля -->
 
 <div align="center">
-  <img src="https://github.com/shankkzn/profile-assets/raw/main/banner2.jpg" alt="Banner 1" width="100%" />
+  <img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpg" alt="Banner 1" width="60%" />
 </div>
 
 
