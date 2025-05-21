@@ -19,7 +19,7 @@
 
 ---
 
-### 🔧 Technologies & Tools
+### ⚙️ Technologies & Tools
 
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -45,17 +45,6 @@
 
 ---
 
-### ⚙️ Технологии и инструменты
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
 ### 📁 What You'll Find Here
 
 - Practice projects built in C#
@@ -68,20 +57,11 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: [dovid1992@gmail.com](mailto:dovid1992@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/vladimir-molochkovetsky-67670aab](https://www.linkedin.com/in/vladimir-molochkovetsky-67670aab)  
+- 📧 [Email] (mailto:dovid1992@gmail.com)  
+- 💼 [LinkedIn] (https://www.linkedin.com/in/vladimir-molochkovetsky-67670aab)   
 - 📄 <a href="https://github.com/VladimirMolochkovetskiy/resume/raw/main/Resume_Vladimir_Molochkovetskiy.pdf" target="_blank"><img src="https://img.shields.io/badge/Download_Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E60023"/></a>
 
 ---
-
-## 📫 Контакты
-
-- 📧 dovid1992@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/vladimir-molochkovetsky-67670aab)  
-- [GitHub](https://github.com/vladmolochkovetskiy)  
-
----
-
 
 ### 📊 GitHub Stats
 
@@ -97,6 +77,15 @@
 
 ---
 
+
+### 📈 Статистика GitHub
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shankkzn&show_icons=true&theme=radical&hide=stars" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankkzn&layout=compact&theme=radical" />
+</p>
 
 ### 📈 Статистика GitHub
 
