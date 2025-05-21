@@ -71,18 +71,16 @@
   <a href="https://github.com/shankkzn/profile-assets">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shankkzn&repo=profile-assets&theme=default" />
   </a>
-</p>
-
----
-
-### 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/shankkzn/shankkzn" title="Мой основной проект">
+  <a href="https://github.com/shankkzn/shankkzn">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shankkzn&repo=shankkzn&theme=default" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/shankkzn/profile-assets" title="Мои ассеты и графика для профиля">
+  <a href="https://github.com/shankkzn/profile-assets">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shankkzn&repo=profile-assets&theme=default" />
+  </a>
+  <a href="https://github.com/shankkzn/shankkzn">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shankkzn&repo=shankkzn&theme=default" />
+  </a>
+  <a href="https://github.com/shankkzn/profile-assets">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shankkzn&repo=profile-assets&theme=default" />
   </a>
 </p>
