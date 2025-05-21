@@ -49,9 +49,9 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: [dovid1992@gmail.com](mailto:dovid1992@gmail.com)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [linkedin.com/in/vladimir-molochkovetsky-67670aab](https://www.linkedin.com/in/vladimir-molochkovetsky-67670aab)
-- 📄 [Resume (PDF)](https://github.com/VladimirMolochkovetskiy/resume/raw/main/Resume_Vladimir_Molochkovetskiy.pdf)
+[![Email](https://img.shields.io/badge/Email-dovid1992@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dovid1992@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-molochkovetsky-67670aab)
+[![Resume](https://img.shields.io/badge/Resume-Download-0E76A8?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/VladimirMolochkovetskiy/resume/raw/main/Resume_Vladimir_Molochkovetskiy.pdf)
 
 ---
 
