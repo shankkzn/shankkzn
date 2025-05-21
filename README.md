@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpeg" alt="Banner 1" width="70%" />
+  <img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpeg" alt="Banner 1" width="100%" />
 </div>
-
-<img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpeg" alt="Banner 1" width="70%" />
-
 
 <!-- содержание профиля -->
 
-<img src="https://github.com/shankkzn/profile-assets/raw/main/banner2.jpg" alt="Banner 2" width="70%" />
+<div align="center">
+  <img src="https://github.com/shankkzn/profile-assets/raw/main/banner2.jpg" alt="Banner 1" width="100%" />
+</div>
 
 
 <h1 align="center">Hi, I'm Vladimir Molochkovetskiy 👋</h1>
