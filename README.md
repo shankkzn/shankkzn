@@ -12,15 +12,6 @@
 
 ---
 
-### Table of Contents
-- [About Me](#-about-me)
-- [Technologies & Tools](#-technologies--tools)
-- [What You'll Find Here](#-what-youll-find-here)
-- [Contact Me](#-contact-me)
-- [GitHub Stats](#-github-stats)
-
----
-
 ### 👨‍💻 About Me
 
 - 💻 Focused on building applications using **C# / .NET** on **Visual Studio**
