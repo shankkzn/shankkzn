@@ -73,6 +73,8 @@
   </a>
 </p>
 
+---
+
 ### 📌 Pinned Projects
 
 <p align="center">
@@ -84,7 +86,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shankkzn&repo=profile-assets&theme=default" />
   </a>
 </p>
-
 
 ---
 
