@@ -61,6 +61,14 @@
 
 ---
 
+## 📫 Контакты
+
+- 📧 dovid1992@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/vladimir-molochkovetsky-67670aab)  
+- [GitHub](https://github.com/vladmolochkovetskiy)  
+
+---
+
 
 ### 📊 GitHub Stats
 
@@ -69,3 +77,11 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirMolochkovetskiy&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+## 📈 Моя статистика GitHub
+
+![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladmolochkovetskiy&show_icons=true&theme=radical)
+
+---
+
+Спасибо за визит на мой профиль! Буду рад сотрудничеству и предложениям. 🚀
