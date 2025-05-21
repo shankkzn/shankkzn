@@ -8,8 +8,6 @@
   <strong>Aspiring C# Developer · Based in Israel · Eager to Learn and Build</strong>
 </h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shankkzn&label=Profile%20views&color=1E90FF&style=flat)
-
 ---
 
 ### 👨‍💻 About Me
