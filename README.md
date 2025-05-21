@@ -73,7 +73,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VladimirMolochkovetskiy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shankkzn&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankkzn&theme=tokyonight" alt="GitHub Streak" />
 </p>
@@ -84,4 +84,14 @@
 
 ---
 
-Спасибо за визит на мой профиль! Буду рад сотрудничеству и предложениям. 🚀
+
+### 📈 Статистика GitHub
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shankkzn&show_icons=true&theme=radical&hide=stars" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankkzn&layout=compact&theme=radical" />
+</p>
+
+Thank you for visiting my profile! I will be glad to cooperate and receive suggestions. 🚀
