@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi! 👋 I'm Vladimir Molochkovetskiy</h1>
 
-<p align="center">
+<h1 align="center">
   <strong>Aspiring C# Developer · Based in Israel · Eager to Learn and Build</strong>
-</p>
+</h1>
 
 ---
 
