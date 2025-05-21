@@ -75,16 +75,6 @@
 
 ---
 
-**Pinned Repositories**
-
-<!-- Можно добавить тут ссылки на закрепленные репозитории вручную -->
-
-- [Project 1](https://github.com/shankkzn/project1) – краткое описание  
-- [Project 2](https://github.com/shankkzn/project2) – краткое описание  
-- [Project 3](https://github.com/shankkzn/project3) – краткое описание  
-
----
-
 ### 📈 GitHub Stats
 
 <p>
