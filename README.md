@@ -75,12 +75,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VladimirMolochkovetskiy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirMolochkovetskiy&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankkzn&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## 📈 Моя статистика GitHub
 
-![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladmolochkovetskiy&show_icons=true&theme=radical)
+![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=shankkzn&show_icons=true&theme=radical)
 
 ---
 
