@@ -72,13 +72,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankkzn&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## 📈 Моя статистика GitHub
-
-![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=shankkzn&show_icons=true&theme=radical)
-
----
-
-
 ### 📈 Статистика GitHub
 
 <p>
