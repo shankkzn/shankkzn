@@ -51,7 +51,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-molochkovetsky-67670aab)
 [![Resume](https://img.shields.io/badge/Resume-0E76A8?style=flat)](https://github.com/VladimirMolochkovetskiy/resume/raw/main/Resume_Vladimir_Molochkovetskiy.pdf)
-[![Email](https://img.shields.io/badge/Email-dovid1992@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dovid1992@gmail.com)
+<a href="mailto:dovid1992@gmail.com" title="Send Email">
+  <img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 ---
 
