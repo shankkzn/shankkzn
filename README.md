@@ -6,6 +6,7 @@
 
 <p align="center">
   Aspiring C# Developer · Based in Israel · Eager to Learn and Build
+  <strong>C#</strong>
 </p>
 
 ---
