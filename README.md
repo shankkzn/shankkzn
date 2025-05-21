@@ -65,7 +65,7 @@
 ### 📈 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankkzn&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankkzn&layout=compact&theme=default" />
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=shankkzn&show_icons=true&theme=default" alt="GitHub Stats" />
