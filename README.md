@@ -69,7 +69,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankkzn&layout=compact&theme=default" />
 </p>
-<p align="right">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=shankkzn&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
