@@ -63,6 +63,15 @@
 
 ---
 
+
+### 📫 Связь со мной
+
+- 📧 Email: dovid1992@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vladimir-molochkovetsky-67670aab)  
+- 🐱 [GitHub](https://github.com/vladmolochkovetskiy)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
