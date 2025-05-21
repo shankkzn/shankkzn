@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Focused on building applications using **C#** on **Visual Studio 2022**
+- 💻 Focused on building applications using **C# / .NET** on **Visual Studio 2022**
 - 🧠 Continuously improving my skills and learning new technologies
 - 🌍 Actively looking for a junior developer position in **Israel**
 
