@@ -65,10 +65,10 @@
 ### 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/shankkzn/Project1">
+  <a href="https://github.com/shankkzn/shankkzn">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shankkzn&repo=Project1&theme=default" />
   </a>
-  <a href="https://github.com/shankkzn/Project2">
+  <a href="https://github.com/shankkzn/profile-assets">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shankkzn&repo=Project2&theme=default" />
   </a>
 </p>
