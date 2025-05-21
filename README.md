@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpeg" alt="Banner 1" width="100%" />
+  <img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpg" alt="Banner 1" width="100%" />
+</div>
+<div align="center">
+  <img src="https://github.com/shankkzn/profile-assets/blob/main/banner1.jpg" alt="Banner 1" width="100%" />
 </div>
 
 <!-- содержание профиля -->
