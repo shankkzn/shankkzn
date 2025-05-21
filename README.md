@@ -67,30 +67,10 @@
 ### 📈 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankkzn&layout=compact&theme=radical" />
-</p>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=shankkzn&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-### 📈 GitHub Stats
-
-<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankkzn&layout=compact&theme=default" />
 </p>
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=shankkzn&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
-
-
-### 📈 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankkzn&layout=compact&bg_color=ffffff00&title_color=000000&text_color=000000&icon_color=4c1" />
-</p>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=shankkzn&show_icons=true&bg_color=ffffff00&title_color=000000&text_color=000000&icon_color=4c1" alt="GitHub Stats" />
-</p>
-
 
 Thank you for visiting my profile! I will be glad to cooperate and receive suggestions. 🚀
