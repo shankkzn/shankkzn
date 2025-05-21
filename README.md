@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpeg" alt="Banner 1" width="70%" />
+</div>
+
 <img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpeg" alt="Banner 1" width="70%" />
 
 
