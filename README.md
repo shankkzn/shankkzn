@@ -59,7 +59,6 @@
 
 - 📧 [Email](mailto:dovid1992@gmail.com)
 - 📧 Email: dovid1992@gmail.com
-- 📧 [mailto:dovid1992@gmail.com](mailto:dovid1992@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vladimir-molochkovetsky-67670aab)   
 - 📄 [GitHub](https://github.com/VladimirMolochkovetskiy/resume/raw/main/Resume_Vladimir_Molochkovetskiy.pdf)
 
