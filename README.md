@@ -49,10 +49,18 @@
 
 ### 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-molochkovetsky-67670aab)
-[![Resume](https://img.shields.io/badge/Resume-0E76A8?style=flat)](https://github.com/VladimirMolochkovetskiy/resume/raw/main/Resume_Vladimir_Molochkovetskiy.pdf)
-[![Email](https://img.shields.io/badge/dovid1992@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dovid1992@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-shankkzn-181717?style=flat&logo=github&logoColor=white)](https://github.com/shankkzn?tab=repositories)
+<a href="https://www.linkedin.com/in/vladimir-molochkovetsky-67670aab" title="Visit my LinkedIn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/VladimirMolochkovetskiy/resume/raw/main/Resume_Vladimir_Molochkovetskiy.pdf" title="View my Resume" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Resume-0E76A8?style=flat" alt="Resume" />
+</a>
+<a href="mailto:dovid1992@gmail.com" title="Send Email" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/dovid1992@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/shankkzn?tab=repositories" title="Visit my GitHub repositories" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-shankkzn-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 ---
 
