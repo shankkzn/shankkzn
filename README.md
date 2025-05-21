@@ -1,5 +1,9 @@
-<img src="https://i.imgur.com/OyZF7uL.png" alt="Banner" width="100%" />
-<img src="https://i.imgur.com/jI3F4EH.png" alt="Programmer at Laptop Banner" width="100%" />
+<img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpeg" alt="Banner 1" width="100%" />
+
+<!-- содержание профиля -->
+
+<img src="https://github.com/shankkzn/profile-assets/raw/main/banner2.jpg" alt="Banner 2" width="100%" />
+
 
 <h1 align="center">Hi, I'm Vladimir Molochkovetskiy 👋</h1>
 <p align="center">
