@@ -71,4 +71,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shankkzn&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
-Thank you for visiting my profile! I will be glad to cooperate and receive suggestions. 🚀
+Thanks for stopping by! I'm open to collaboration, feedback, and opportunities. 🚀
+
