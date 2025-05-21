@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - 💻 Focused on building applications using **C# / .NET** on **Visual Studio**
-- 🗃 I create applications with databases (SQL Server, SQLite)
+- 🗃 I create applications with databases (Microsoft SQL Server, SQLite)
 - 🧠 Continuously improving my skills and learning new technologies
 - 🌍 Actively looking for a junior developer position in **Israel**
 
