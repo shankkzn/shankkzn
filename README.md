@@ -1,12 +1,9 @@
-<img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpeg" alt="Banner 1" width="30%" />
-<img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpeg" alt="Banner 1" width="40%" />
-<img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpeg" alt="Banner 1" width="50%" />
-<img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpeg" alt="Banner 1" width="80%" />
+<img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpeg" alt="Banner 1" width="70%" />
 
 
 <!-- содержание профиля -->
 
-<img src="https://github.com/shankkzn/profile-assets/raw/main/banner2.jpg" alt="Banner 2" width="100%" />
+<img src="https://github.com/shankkzn/profile-assets/raw/main/banner2.jpg" alt="Banner 2" width="70%" />
 
 
 <h1 align="center">Hi, I'm Vladimir Molochkovetskiy 👋</h1>
