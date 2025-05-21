@@ -1,4 +1,6 @@
 <img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpeg" alt="Banner 1" width="100%" />
+<img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpeg" alt="Banner 1" width="80%" />
+
 
 <!-- содержание профиля -->
 
