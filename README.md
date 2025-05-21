@@ -57,18 +57,10 @@
 
 ### 📫 Contact Me
 
-- 📧 [Email](mailto:dovid1992@gmail.com)  
+- 📧 [Email](mailto:dovid1992@gmail.com)
+- 📧 Email: dovid1992@gmail.com
+- 📧 [mailto:dovid1992@gmail.com](mailto:dovid1992@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vladimir-molochkovetsky-67670aab)   
-- 📄 <a href="https://github.com/VladimirMolochkovetskiy/resume/raw/main/Resume_Vladimir_Molochkovetskiy.pdf" target="_blank"><img src="https://img.shields.io/badge/Download_Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E60023"/></a>
-
----
-
-
-### 📫 Связь со мной
-
-- 📧 Email: dovid1992@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vladimir-molochkovetsky-67670aab)  
-- 🐱 [GitHub](https://github.com/vladmolochkovetskiy)
 - 📄 [GitHub](https://github.com/VladimirMolochkovetskiy/resume/raw/main/Resume_Vladimir_Molochkovetskiy.pdf)
 
 ---
