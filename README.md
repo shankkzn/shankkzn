@@ -64,22 +64,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankkzn&layout=compact&theme=radical" />
 </p>
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=shankkzn&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-### 📈 Статистика GitHub
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shankkzn&show_icons=true&theme=radical&hide=stars" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankkzn&layout=compact&theme=radical" />
 </p>
 
 Thank you for visiting my profile! I will be glad to cooperate and receive suggestions. 🚀
