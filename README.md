@@ -71,8 +71,6 @@
 </p>
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=shankkzn&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankkzn&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 📈 Статистика GitHub
