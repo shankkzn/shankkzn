@@ -2,7 +2,7 @@
   <img src="https://github.com/shankkzn/profile-assets/raw/main/banner1.jpg" alt="Banner 1" width="60%" />
 </div>
 
-<h1 align="center">Hi! 👋 I'm Vladimir Molochkovetskiy</h1>
+<h1 align="center">Hi! 👋 I'm Vladimir Molochkovetsky</h1>
 
 <h3 align="center">
   <strong>Aspiring C# Developer · Based in Israel · Eager to Learn and Build</strong>
