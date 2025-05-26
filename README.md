@@ -35,12 +35,6 @@
 
 ---
 
-### ⚙️ Technologies & Tools
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
----
-
 ### 📁 What You'll Find Here
 
 - Practice projects built in C#
