@@ -44,40 +44,11 @@
 > This helps me explore a new programming language and understand how bots work in practice.  
 > I plan to upload my progress as a public repository here and update it regularly with new features and commits.
 
----
-
-### 🧪 Languages I'm Learning
-
-### 🧪 Languages I'm Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
-
-I'm currently learning how to create **Telegram bots** using **Python**.  
-This helps me explore a new programming language and understand how bots work in practice.  
-I plan to upload my progress as a public repository here and update it regularly with new features and commits.
-
-<br/>
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-I previously studied **Docker** and its core CLI commands.  
-I'm now refreshing my knowledge to use it in real-world **C# / .NET** projects.
-
+> I previously studied Docker and its core CLI commands.
+> I'm now refreshing my knowledge to use it in real-world C# / .NET projects.
 ---
-
-### 🧪 Languages I'm Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-> I'm currently learning how to create **Telegram bots** using **Python**.  
-> This helps me explore a new programming language and understand how bots work in practice.  
-> I plan to upload my progress as a public repository here and update it regularly with new features and commits.  
->  
-> I previously studied **Docker** and its core CLI commands.  
-> I'm now refreshing my knowledge to use it in real-world **C# / .NET** projects.
 
 ### 📁 What You'll Find Here
 
