@@ -40,10 +40,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
 
-> I'm currently diving into **Python** by developing **Telegram bots**.  
-> This learning path allows me to explore real-world automation, API integration, and event-driven programming — all within a practical and engaging context.  
-> As I grow more confident with Python, I’ll be publishing my bots as open-source repositories here on GitHub, continuously updating them with new features and improvements.  
-> It's an exciting journey into a new language and a step forward in expanding my development skillset.
+<div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+  I'm currently learning how to create <strong>Telegram bots</strong> using <strong>Python</strong>.<br>
+  This helps me explore a new programming language and understand how bots work in practice.<br>
+  I plan to upload my progress as a public repository here and update it regularly with new features and commits.
+</div>
 
 ---
 
