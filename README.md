@@ -38,10 +38,12 @@
 ### 🧪 Languages I'm Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
 
-> I'm currently learning **Python** by creating **Telegram bots**.  
-> This helps me understand how bots work, how to interact with the Telegram Bot API, and gives me hands-on experience with a new language.  
-> I plan to upload related repositories here on GitHub and update them regularly as I progress — with new features, improvements, and commits documenting my learning journey.
+> I'm currently diving into **Python** by developing **Telegram bots**.  
+> This learning path allows me to explore real-world automation, API integration, and event-driven programming — all within a practical and engaging context.  
+> As I grow more confident with Python, I’ll be publishing my bots as open-source repositories here on GitHub, continuously updating them with new features and improvements.  
+> It's an exciting journey into a new language and a step forward in expanding my development skillset.
 
 ---
 
