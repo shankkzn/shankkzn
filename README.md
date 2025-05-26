@@ -53,9 +53,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
 
-> I'm currently learning **Python** by creating **Telegram bots**.  
-> This helps me understand how bots work, how to interact with the Telegram Bot API, and gives me hands-on experience with a new language.  
-> I plan to upload related repositories here on GitHub and update them regularly as I progress — with new features, improvements, and commits documenting my learning journey.
+> I'm currently learning how to create **Telegram bots** using **Python** 
+> This helps me explore a new programming language and understand how bots work in practice.
+> I plan to upload my progress as a public repository here and update it regularly with new features and commits.
 
 ---
 
