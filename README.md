@@ -5,7 +5,11 @@
 <h1 align="center">Hi! 👋 I'm Vladimir Molochkovetsky</h1>
 
 <h3 align="center">
-  <strong>Aspiring C# Developer · Based in Israel · Eager to Learn and Build</strong>
+  <strong>Aspiring C# Developer · Based in Israel · Passionate about Learning and Building Software</strong>
+</h3>
+
+<h3 align="center">
+  <strong>Hi! I'm Vladimir, a junior C# developer passionate about turning ideas into code. Based in Israel, always eager to learn new things and contribute.</strong>
 </h3>
 
 ---
