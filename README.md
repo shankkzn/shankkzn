@@ -12,10 +12,10 @@
 
 ### 👨‍💻 About Me
 
-- 💻 I create applications using **C# / .NET** on **Visual Studio**
-- 🗃 I create applications with databases (Microsoft SQL Server, SQLite)
-- 🧠 Continuously improving my skills and learning new technologies
-- 🌍 Actively looking for a junior developer position in **Israel**
+- 💻 Developing desktop and web applications using C# / .NET with a focus on clean and maintainable code
+- 🗃 Experienced working with databases such as Microsoft SQL Server and SQLite
+- 🧠 Continuously expanding my knowledge by building real-world projects and experimenting with new technologies
+- 🌍 Actively seeking a developer role in Israel to grow professionally and contribute to impactful projects
 
 ---
 
