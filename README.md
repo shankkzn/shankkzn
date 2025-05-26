@@ -40,19 +40,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
 
-<div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-  I'm currently learning how to create <strong>Telegram bots</strong> using <strong>Python</strong>.<br>
-  This helps me explore a new programming language and understand how bots work in practice.<br>
-  I plan to upload my progress as a public repository here and update it regularly with new features and commits.
-</div>
-
----
-
-### 🧪 Languages I'm Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
-
 > I'm currently learning how to create **Telegram bots** using **Python**.   
 > This helps me explore a new programming language and understand how bots work in practice.  
 > I plan to upload my progress as a public repository here and update it regularly with new features and commits.
