@@ -98,3 +98,8 @@
 
 Thanks for stopping by! I'm open to collaboration, feedback, and opportunities. 🚀
 
+
+Thanks for stopping by! 🚀  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vladimir-molochkovetsky-67670aab) or send me an email at dovid1992@gmail.com.  
+I'm always open to collaboration, feedback, and exciting opportunities.
+
