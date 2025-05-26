@@ -87,6 +87,24 @@
 
 ---
 
+### 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/shankkzn/shankkzn">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shankkzn&repo=shankkzn&theme=default" />
+  </a>
+  <br />
+  <em>A sample portfolio website built with React and TypeScript.</em>
+
+  <a href="https://github.com/shankkzn/profile-assets">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shankkzn&repo=profile-assets&theme=default" />
+  </a>
+  <br />
+  <em>Repository for my profile images, icons and assets.</em>
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p>
